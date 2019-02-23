@@ -2,7 +2,7 @@
 
 Short task description
 
-link to Jira ticket
+link to Issue
 
 ## Changes
 
@@ -13,5 +13,4 @@ link to Jira ticket
 
 How can people test it manually?
 
--   deployed & tested on textboxZZ
--   added unit tests
+-   navigate to url ...

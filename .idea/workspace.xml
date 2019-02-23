@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4642e1c1-6697-44be-9a0b-fe8768c42e64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pull_request_template.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pull_request_template.md" beforeDir="false" afterPath="$PROJECT_DIR$/pull_request_template.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -92,6 +92,7 @@
         <counts>
           <entry key="html" value="8" />
           <entry key="java" value="68" />
+          <entry key="md" value="24" />
           <entry key="sql" value="1" />
           <entry key="xml" value="4" />
         </counts>
@@ -100,6 +101,7 @@
         <counts>
           <entry key="HTML" value="8" />
           <entry key="JAVA" value="68" />
+          <entry key="Markdown" value="24" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="4" />
         </counts>
@@ -142,8 +144,8 @@
         <entry file="file://$PROJECT_DIR$/pull_request_template.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -673,7 +675,7 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550943561365" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550943648652" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -751,12 +753,12 @@
       <workItem from="1550616184371" duration="3585000" />
       <workItem from="1550926705206" duration="1939000" />
       <workItem from="1550931149198" duration="71000" />
-      <workItem from="1550931240872" duration="3362000" />
+      <workItem from="1550931240872" duration="3449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10914000" />
+    <option name="totallyTimeSpent" value="11001000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -978,8 +980,8 @@
     <entry file="file://$PROJECT_DIR$/pull_request_template.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
